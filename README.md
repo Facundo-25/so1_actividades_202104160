@@ -14,8 +14,10 @@ Hola, soy Steven Facundo Mejía Xolop. Este repositorio se utiliza para la entre
 
 ## Estructura del Repositorio
 
-- **[Tarea 1:](https://github.com/Facundo-25/so1_actividades_202104160/blob/main/actividad1/actvidad1.md)** Investigación sobre concepto del Sistema Operativo
+- **[Tarea 1:](https://github.com/Facundo-25/so1_actividades_202104160/blob/main/actividad1)** Investigación sobre conceptos del Sistema Operativo
 
+
+- **[Tarea 2:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad2)** Scripting
 
 <br>
 <br>
