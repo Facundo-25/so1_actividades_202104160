@@ -23,6 +23,9 @@ Hola, soy Steven Facundo Mejía Xolop. Este repositorio se utiliza para la entre
 - **[Tarea 3:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad3)** Systemd Unit
 
 
+- **[Tarea 4:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad4)** Chat Básico con Named Pipes 
+
+
 <br>
 <br>
 <br>
