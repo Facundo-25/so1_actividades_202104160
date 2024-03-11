@@ -26,6 +26,8 @@ Hola, soy Steven Facundo Mejía Xolop. Este repositorio se utiliza para la entre
 - **[Tarea 4:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad4)** Chat Básico con Named Pipes 
 
 
+- **[Tarea 5:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad5)** Prueba de Procesos e Hilos
+
 <br>
 <br>
 <br>
