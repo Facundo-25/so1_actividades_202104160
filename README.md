@@ -9,7 +9,7 @@ Hola, soy Steven Facundo Mejía Xolop. Este repositorio se utiliza para la entre
 ## Contacto
 
 - **Nombre:** Steven Facundo Mejía Xolop
-- **Correo Electrónico:** facundo25mejia@gmail.com
+- **Correo Electrónico:** facundo25mejia@gmail.comConceptos de CPU Scheduling
 - **GitHub:** Facundo-25 (https://github.com/Facundo-25)
 
 ## Estructura del Repositorio
@@ -27,6 +27,10 @@ Hola, soy Steven Facundo Mejía Xolop. Este repositorio se utiliza para la entre
 
 
 - **[Tarea 5:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad5)** Prueba de Procesos e Hilos
+
+- **[Tarea 6:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad6)** Conceptos de CPU Scheduling
+
+- **[Tarea 7:](https://github.com/Facundo-25/so1_actividades_202104160/tree/main/actividad7)** Completely Fair Scheduler
 
 <br>
 <br>
